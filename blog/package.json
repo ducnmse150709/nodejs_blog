@@ -1,0 +1,30 @@
+{
+  "name": "duc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "blog"
+  ],
+  "author": "Duc",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducnmse150709/nodejs_blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ducnmse150709/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/ducnmse150709/nodejs_blog#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
